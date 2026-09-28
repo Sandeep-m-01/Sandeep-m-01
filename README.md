@@ -69,8 +69,6 @@ Currently working with:
 
 **Git • Maven • Docker • Postman • Android Studio • Python • Scrapy • FFmpeg**
 
-The skill-icons project supports embedding these technology icons directly in GitHub READMEs. :contentReference[oaicite:1]{index=1}
-
 ---
 
 </div>
