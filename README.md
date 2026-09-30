@@ -4,7 +4,7 @@
 
 ### Java Backend Developer
 
-**Java • Spring Boot • REST APIs • JPA/Hibernate • MySQL**
+**Java • Spring Boot • REST APIs • JPA • MySQL**
 
 <br>
 
