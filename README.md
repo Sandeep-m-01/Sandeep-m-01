@@ -64,10 +64,10 @@ Currently working with:
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,docker,postman,androidstudio,python" />
+<img src="https://skillicons.dev/icons?i=git,postman,androidstudio,python" />
 </p>
 
-**Git • Maven • Docker • Postman • Android Studio • Python • Scrapy • FFmpeg**
+**Git • Maven • Postman • Android Studio • Python • Scrapy • FFmpeg**
 
 ---
 
